@@ -73,6 +73,7 @@ You can download some Pre-made Setups from here.
 - by DyeEarth - [❄️ Premade Bedwars - Setups](https://polymart.org/resource/1679/)
 - by Shanvir - [⚔ BEDWARS SETUP ⚔](https://polymart.org/resource/2913/)
 - by ArrowTan - [Brand New 1.17.1 Bedwars Setup](https://polymart.org/resource/3038)
+- by MasterMC-Setups - [💎 MSTR BEDWARS SETUP 💎](https://polymart.org/resource/3747)
 
 ### Free Setups
 - by BijjuXD - [🔥FREE BEDWARS SETUP 🔥](https://polymart.org/r/4343)
